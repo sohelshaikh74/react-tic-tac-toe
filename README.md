@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-#You can check here our website
+# You can check here our website
 https://1tic-tac-toe-react-app.netlify.app
 
 
